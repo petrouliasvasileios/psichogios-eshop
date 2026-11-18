@@ -1,0 +1,20 @@
+# Εξαρτήσεις
+node_modules
+
+# Build του Next.js
+.next
+.next_old_*
+out
+
+# Μεταβλητές περιβάλλοντος (ΠΟΤΕ στο git)
+.env
+.env.local
+.env*.local
+.env*
+!.env.example
+
+# Διάφορα
+next-env.d.ts
+*.tsbuildinfo
+.DS_Store
+_trash
