@@ -7,7 +7,7 @@ export const SITE = {
   legalName: "ΨΥΧΟΓΥΙΟΣ DELICATESSEN FOOD SERVICE ΜΟΝ. Ι.Κ.Ε.",
   tagline: "Delicatessen Food Services",
   activity: "Εμπόριο & επεξεργασία κρεάτων",
-  logo: "https://www.psichogiosmeat.gr/image/catalog/logo.png",
+  logo: "/images/logo-orizontio.svg",
 
   /** Εταιρικά στοιχεία */
   vat: "093071707",
